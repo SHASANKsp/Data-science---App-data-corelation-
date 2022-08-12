@@ -1,5 +1,4 @@
-#PART 1
-#question 2
+#PART 2
 
 import streamlit as st #importing streamlit module 
 import pandas as pd #importing pandas module
