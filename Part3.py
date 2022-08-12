@@ -1,5 +1,4 @@
-#PART 1
-#question 3
+#PART 3
 
 import pandas as pd #importing pandas
 import numpy as np #importing numpy
