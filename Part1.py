@@ -1,5 +1,4 @@
 #PART 1
-#question 1
 
 import regex as re #importing regex module 
 import json #importing json module
